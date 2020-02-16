@@ -1,5 +1,6 @@
 
 **My individual study homeworks**
-> HW1,2 - cobrapy
-> HW3 - using API
-> HW4 - using GenBank data
+
+ <p> HW1,2 - cobrapy
+<p> HW3 - using API
+ <p> HW4 - using GenBank data
