@@ -1,5 +1,4 @@
 
-**My individual study homeworks**
 
  <p> HW1,2 - cobrapy
 <p> HW3 - using API
