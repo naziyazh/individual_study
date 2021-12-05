@@ -1,4 +1,4 @@
-<h1> Homeworks for the Individual study course ( Systems Biology and Medicine Laboratory )
+<h1> Homeworks for the Individual study course ( Systems Biology and Medicine Laboratory ) </h1>
  
 
  <p> HW1,2 - cobrapy
